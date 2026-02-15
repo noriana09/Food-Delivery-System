@@ -1,4 +1,4 @@
-# Food Delivery Simulation System (HY-486 Project)
+# Food Delivery Simulation System
 
 ## Description
 
