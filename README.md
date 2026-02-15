@@ -99,4 +99,34 @@ You can change N_THREADS inside the Makefile.
 ### 1. Compile
 
 make
+
 ./main
+
+
+
+---
+
+## Requirements
+
+- GCC
+- pthreads
+- C11 support
+
+Compile flags used:
+
+- -std=c11
+- -pthread
+- -DN_THREADS=<number>
+
+---
+
+## What This Project Demonstrates
+
+- Lock-free programming
+- Atomic operations
+- Memory ordering
+- Elimination backoff technique
+- Concurrent queue implementation
+- Lazy synchronization
+- Multithreaded system design
+
